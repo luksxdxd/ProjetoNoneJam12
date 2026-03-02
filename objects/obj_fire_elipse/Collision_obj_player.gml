@@ -1,0 +1,6 @@
+/// @description Inserir descrição aqui
+// Você pode escrever seu código neste editor
+
+other.receber_dano(fire_damage);
+
+instance_destroy();
